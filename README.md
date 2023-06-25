@@ -8,6 +8,15 @@ WindCatcher is a Python command-line interface (CLI) tool that provides weather 
 - Access weather forecasts for the day and night, including weather description, precipitation probability, rainfall, snowfall, and ice accumulation.
 - Colorful and user-friendly display of weather information.
 
+## Copilot
+
+- Copilot was used to speed up Json Key parsing
+- It also suggested the flag -c part
+- autocompleted similar colored functions
+- Reduced coding time significantly
+
+![image](https://envs.sh/du-.png)
+
 ## Installation
 
 1. Clone the WindCatcher repository:
